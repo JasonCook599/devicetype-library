@@ -1,0 +1,22 @@
+---
+manufacturer: APC
+model: AR100HD
+slug: apc-ar100hd
+description: APC NetShelter 13U Wallmount Rack Cabinet
+
+form_factor: 4-post-frame
+width: 19
+u_height: 13
+outer_width: 584
+outer_height: 663
+outer_depth: 631
+outer_unit: mm
+
+weight: 42.73
+max_weight: 91
+weight_unit: kg
+
+mounting_depth: 482
+starting_unit: 1
+desc_units: false
+comments: '[APC NetShelter 13U Wallmount Rack Cabinet](https://www.se.com/ca/en/product/AR100HD/apc-netshelter-13u-wallmount-rack-cabinet-vented-door-double-hinged-server-depth/)'
