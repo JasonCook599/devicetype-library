@@ -1,0 +1,25 @@
+---
+manufacturer: LifeSafety Power
+model: E4
+slug: lifesafety-e4
+comments: '[Enclosures](https://www.lifesafetypower.com/en/products/enclosures---locking-options/enclosures#accordion-19c7a86d74-item-f6dd2de3a1)'
+
+subdevice_role: parent
+
+u_height: 0
+
+weight: 30
+weight_unit: lb
+
+airflow: passive
+is_powered: true
+
+module-bays:
+  - name: PSU
+    position: PSU
+device-bays:
+  - name: Controller 1
+  - name: Controller 2
+  - name: Controller 3
+  - name: Controller 4
+  - name: Network Connectivity Module
